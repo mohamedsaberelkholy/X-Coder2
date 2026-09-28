@@ -1,0 +1,6 @@
+{
+  "name": "LocalCoder-X Agent Sandbox",
+  "description": "Autonomous multi-role software engineering agent workbench with unified diff patch engine, git inspection, test runner, and strict tool execution loop.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
